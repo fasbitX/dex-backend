@@ -1,6 +1,7 @@
 module.exports = {
     contractDExAddrs: [
         { addr: '0xbca13cbebff557143e8ad089192380e9c9a58c70', info: 'Deployed 04/16/2018' },
+        { addr: '0xafeb70ae58052456772f0d5e7a42e13fcd2a429e', info: 'Deployed 03/08/2019' },
     ],
     sessionSecret: 'session secret',
     SITE_ADMIN_MAIL: 'admin@email.com',
